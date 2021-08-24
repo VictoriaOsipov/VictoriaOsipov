@@ -1,10 +1,10 @@
-# [https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif] Hi there, I'm Victoria Osipov.
+#  HEllo there, I'm Victoria Osipov.
 
-## I'm a Computer ScienceStudent  
+## I am a Computer ScienceStudent  
 
-- 👨‍💻I am a passionate and enthusiastic self-taught web developer.
-- 📚 I’m currently learning everything about Frontend and Backend technologies.
-- ⚡ Fun fact: I love plants and yoga
+- 👨‍💻 I am a passionate and enthusiastic self-taught web developer.
+- 📚 I am currently learning everything about Frontend and Backend technologies.
+- ⚡ Fun fact: I love plants and yoga 🌱🧘🏻‍♀️
 
 ---
 
