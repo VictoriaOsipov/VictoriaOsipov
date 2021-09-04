@@ -1,4 +1,4 @@
-#  HEllo there, I'm Victoria Osipov.
+#  Hello there, I'm Victoria Osipov.
 
 ## I am a Computer ScienceStudent  
 
