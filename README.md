@@ -1,6 +1,6 @@
 #  Hello there, I'm Victoria Osipov.
 
-## I am a Computer ScienceStudent  
+## I am a Computer Science Student  
 
 - 👨‍💻 I am a passionate and enthusiastic self-taught web developer.
 - 📚 I am currently learning everything about Frontend and Backend technologies.
