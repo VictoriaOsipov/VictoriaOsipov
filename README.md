@@ -39,11 +39,7 @@
 ---
 
 
----
-
 [linkedin]: https://www.linkedin.com/in/victoria-osipov
 
 
-----
 
-Last Edited on: 24/08/2021
